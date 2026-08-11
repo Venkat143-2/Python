@@ -42,7 +42,7 @@ Python-Learning/
 │
 ├── assets/
 │
-├── 01_Python_History/
+├── 01_About_Python/
 ├── 02_Python_Basics/
 ├── 03_Python_Intermediate_OOP/
 ├── 04_Python_Advanced/
@@ -54,7 +54,7 @@ Python-Learning/
 
 # 🗂 Learning Roadmap
 
-## 📘 01. Python History
+## 📘 01. About Python
 
 Learn the foundations of Python.
 
