@@ -1,6 +1,6 @@
-# 📘 Python History
+# 📘 About Python
 
-Welcome to the **Python History** section of the Python Learning repository.
+Welcome to the **About Python** section of the Python Learning repository.
 
 This section provides the foundation of Python by exploring its origin, evolution, philosophy, versions, installation process, and execution model. Understanding these topics will help you appreciate why Python has become one of the world's most popular programming languages.
 
@@ -44,7 +44,7 @@ After completing this section, you will be able to:
 # 🗂 Folder Structure
 
 ```text
-01_Python_History/
+01_About_Python/
 │
 ├── 01_Introduction_to_Python.md
 ├── 02_History_of_Python.md
