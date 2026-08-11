@@ -53,7 +53,7 @@ Python-Learning/
 │   ├── roadmap.png
 │   └── logo.png
 │
-├── 01_Python_History/
+├── 01_About_Python/
 │   ├── 01_Introduction_to_Python.md
 │   ├── 02_History_of_Python.md
 │   ├── 03_Why_Python.md
